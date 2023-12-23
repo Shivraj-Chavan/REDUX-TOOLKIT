@@ -1,0 +1,15 @@
+store ==> agar data lena to store lenge , agar store  karna hai to store me hi karenge 
+reducer ==> data logic likhna fir jo logic ka ans usko store me store karo 
+reducer ke andar method ==> addcart(){
+
+    logic 
+
+} ,removecart(){
+    remove logic
+}
+
+
+state ==> mera pura data state ke andar hoga  
+action ==> jo bhi button apan click karenge or uske sath jo bhej rahe hai vo value 
+action se value kaise le ==> action.payload
+dispatcher ==> trigger karta hai apne reducer ,  method  on hogi
